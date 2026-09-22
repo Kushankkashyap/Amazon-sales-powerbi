@@ -40,13 +40,15 @@ The dashboard is designed as a business-facing reporting solution for monitoring
 
 ---
 
-## 📸 Dashboard Preview
+## 📦 Project Files
 
-![Dashboard Preview](dashboard-preview.png)
+- [Power BI report (`.pbix`)](Amazon%20Product%20Analysis.pbix)
+- [Dashboard PDF](Amazon%20Sales%20Analysis.pdf)
+- [Excel source / working data](Amazon_Combined_Data.xlsx)
 
-## 📄 Report
+## 📊 Dashboard Preview
 
-[View the PDF report](Amazon%20Sales%20Analysis.pdf)
+The repository includes the completed Power BI report and PDF export. Open the PDF for the full dashboard walkthrough.
 
 ---
 
@@ -56,7 +58,7 @@ This project demonstrates the ability to transform sales data into an interactiv
 
 ---
 
-## 🚀 Potential Enhancements
+## 🚀 Possible Extensions
 
 - Customer segmentation and repeat-purchase analysis
 - Product-level margin analysis
